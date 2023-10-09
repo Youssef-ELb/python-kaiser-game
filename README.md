@@ -1,8 +1,6 @@
 # kaiserV
+## Installation package pillow indispensable 
 
-## Installation package pillow indispensable
-
-=> "pip install pygame" 
-
-=> "pip install pillow"
+1. 'pip install pygame' 
+2. 'pip install pillow'
 
